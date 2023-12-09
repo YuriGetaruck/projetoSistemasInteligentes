@@ -1,0 +1,5 @@
+tensorflow==2.14.0
+numpy==1.23.5
+
+# pip install -r requirements.txt
+# python3 -u LSVM_next_word_prediction.py
